@@ -11,7 +11,8 @@ end
 def link = "It's Dangerous To Go Alone! Take This."
   puts link
 end
-def any_phrase(phrase)
+def any_phrase
+  # "takes in an argument and puts out the catch phrase"
   phrase = "Do A Barrel Roll!"
   puts = phrase
 end
